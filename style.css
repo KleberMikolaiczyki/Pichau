@@ -1,0 +1,121 @@
+body{
+    color: white;
+}
+.menu a{
+    color: white;
+    
+}
+.conta {
+    color: white;
+    position: relative;
+    top: -52px;
+    left: 660px;
+    width: 150px;
+}
+.atendimento{
+    color: white;
+    position: relative;
+    top: -106px;
+    left: 850px;
+    width: 150px; 
+}
+.modo{
+    color: white;
+    position: relative;
+    top: -158px;
+    left: 990px;
+    width: 100px;
+}
+.dep{
+    position: relative;
+    top: -140px;
+    margin-left: 30px;
+    width: 400px;
+    height: 60px;
+    background: #e90313;
+    border-color: #e90313;
+    border-radius: 5px;
+    color: white;
+    padding: 0.5rem 0.25rem;
+    
+}
+.busca{
+    height: 40px;
+    position: relative;
+    top: -190px;
+    left: 460px;
+    width: 840px;
+    border-radius: 5px;
+    border: #424242;
+    padding: 5px !important;
+    background: #424242;
+}
+.carrinho{
+    width: 210px; 
+    height: 65px; 
+    margin-top: -50px; 
+    margin-right: 25px; 
+    cursor: pointer;
+    background: #009e2a;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    float: right;
+}
+
+::placeholder{
+    color: rgb(163, 163, 163);
+}
+.gamer{
+    color: white;
+    background: black;
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 310px;
+    height: 98px;
+}
+.workstation{
+    color: white;
+    background: blue;
+    margin-top: -220px;
+    margin-left: 345px;
+    width: 310px;
+    height: 98px;
+}
+.home{
+    color: white;
+    background: green;
+    margin-top: -220px;
+    margin-left: 675px;
+    width: 310px;
+    height: 98px;
+}
+.config{
+    color: white;
+    background: red;
+    margin-top: -220px;
+    margin-left: 1005px;
+    width: 310px;
+    height: 98px;
+}
+.nome{
+    font-size: 16px;
+}
+.avista{
+    color: #0fc940;
+    font-size: 10px;
+}
+.preco1{
+    color: #009e2a;
+    font-size: 20px;
+    font-family: arial black;
+}
+.pix{
+    font-size: 10px;
+}
+.parcelado{
+    color: red;
+}
+.vezes{
+    font-size: 12px;
+}
